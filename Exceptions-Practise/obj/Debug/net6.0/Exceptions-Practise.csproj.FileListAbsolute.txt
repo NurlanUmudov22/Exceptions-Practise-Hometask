@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\bin\Debug\net6.0\Exceptions-Practise.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\bin\Debug\net6.0\Exceptions-Practise.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\bin\Debug\net6.0\Exceptions-Practise.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\bin\Debug\net6.0\Exceptions-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\bin\Debug\net6.0\Exceptions-Practise.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\refint\Exceptions-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\Exceptions-Practise.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Exceptions-Practise\Exceptions-Practise\obj\Debug\net6.0\ref\Exceptions-Practise.dll
